@@ -1,0 +1,6 @@
+2018-02-21 17:48:09.849 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## stop the canal server
+2018-02-21 17:48:09.896 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.16.236.1:11111]
+2018-02-21 17:48:09.896 [Thread-3] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## canal server is down.
+2018-02-21 17:48:15.033 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## start the canal server.
+2018-02-21 17:48:15.241 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.16.236.1:11111]
+2018-02-21 17:48:16.874 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## the canal server is running now ......
